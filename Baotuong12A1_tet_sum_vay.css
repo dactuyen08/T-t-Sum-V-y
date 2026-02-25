@@ -1,0 +1,43 @@
+header {
+    background-color:coral;
+    color: white;
+    padding: 30px 20px;
+    margin: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+h2{ 
+    font-size: 30px;
+    color: crimson;
+    margin: 15px;
+}
+p {
+    font-size: 22px;
+    margin: 15px;}
+p.red{
+    color: rebeccapurple;
+}
+body {
+    background-color: whitesmoke;
+    padding: 20px;
+}
+
+ul {
+    font-size: 25px;
+    color: brown;
+}
+
+h3{ 
+    color:brown;
+    font-size: 25px;
+    margin: 15px;
+}
+
+input{
+    background-color: lightyellow;
+    font-size: 20px;
+}
+
+textarea {
+    background-color: lightyellow;
+}
